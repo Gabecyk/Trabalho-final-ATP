@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trabalho Final - ATP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee25007eddc1029a9d75c84a6102677f2f8e776f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+964800d672db8b7ad0c456c20be75d23e8fd0c56")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trabalho Final - ATP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trabalho Final - ATP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
