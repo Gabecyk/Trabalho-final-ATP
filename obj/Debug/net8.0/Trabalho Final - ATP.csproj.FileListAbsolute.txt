@@ -1,0 +1,15 @@
+c:\Users\Gabriel Balduino\Documents\Trabalho Final - ATP\bin\Debug\net8.0\Trabalho Final - ATP.exe
+C:\Users\Gabriel Balduino\Documents\Trabalho Final - ATP\bin\Debug\net8.0\Trabalho Final - ATP.deps.json
+C:\Users\Gabriel Balduino\Documents\Trabalho Final - ATP\bin\Debug\net8.0\Trabalho Final - ATP.runtimeconfig.json
+c:\Users\Gabriel Balduino\Documents\Trabalho Final - ATP\bin\Debug\net8.0\Trabalho Final - ATP.dll
+c:\Users\Gabriel Balduino\Documents\Trabalho Final - ATP\bin\Debug\net8.0\Trabalho Final - ATP.pdb
+c:\Users\Gabriel Balduino\Documents\Trabalho Final - ATP\obj\Debug\net8.0\Trabalho Final - ATP.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Gabriel Balduino\Documents\Trabalho Final - ATP\obj\Debug\net8.0\Trabalho Final - ATP.AssemblyInfoInputs.cache
+c:\Users\Gabriel Balduino\Documents\Trabalho Final - ATP\obj\Debug\net8.0\Trabalho Final - ATP.AssemblyInfo.cs
+c:\Users\Gabriel Balduino\Documents\Trabalho Final - ATP\obj\Debug\net8.0\Trabalho Final - ATP.csproj.CoreCompileInputs.cache
+c:\Users\Gabriel Balduino\Documents\Trabalho Final - ATP\obj\Debug\net8.0\Trabalho Final - ATP.sourcelink.json
+c:\Users\Gabriel Balduino\Documents\Trabalho Final - ATP\obj\Debug\net8.0\Trabalho Final - ATP.dll
+c:\Users\Gabriel Balduino\Documents\Trabalho Final - ATP\obj\Debug\net8.0\refint\Trabalho Final - ATP.dll
+c:\Users\Gabriel Balduino\Documents\Trabalho Final - ATP\obj\Debug\net8.0\Trabalho Final - ATP.pdb
+C:\Users\Gabriel Balduino\Documents\Trabalho Final - ATP\obj\Debug\net8.0\Trabalho Final - ATP.genruntimeconfig.cache
+C:\Users\Gabriel Balduino\Documents\Trabalho Final - ATP\obj\Debug\net8.0\ref\Trabalho Final - ATP.dll
